@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: org.qualitified.composable.prompts.core
+Bundle-Version: 1.0.0
+Bundle-Name: qualitified-composable-prompts-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.qualitified.composable.prompts.core.qualitified-composable-prompts-core;singleton=true
+Nuxeo-Component: OSGI-INF/qualitified-composable-prompts-operation-contrib.xml

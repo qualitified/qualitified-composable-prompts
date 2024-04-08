@@ -1,0 +1,5 @@
+<component name="org.qualitified.composable.prompts.operation">
+    <extension target="org.nuxeo.ecm.core.operation.OperationServiceComponent" point="operations" >
+        <operation class="org.qualitified.composable.prompts.operation.ComposablePromptsOp" replace="true"/>
+    </extension>
+</component>
